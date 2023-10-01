@@ -1,7 +1,8 @@
 public class Main {
     public static void main(String[] args){
-        System.out.print("Hello World,welcome ");
-        System.out.print("BytesNBits.");
+        String message1 = "Hello World!";
+        String message2 = "Keep Grinding!";
+        System.out.println(message1 + " "+ message2);
     }
 
 }
